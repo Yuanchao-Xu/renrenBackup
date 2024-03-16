@@ -29,12 +29,20 @@ A backup tool for renren.com
 > 注意：目前的版本并未经过严格测试和兼容性确认，只在 Windows 10 x64 21H2 版本上简单确认可用，其他系统（Linux/macOS）或版本（非 Win10x64）都可能无法运行，欢迎协助更新
 
 
-## Python 环境使用和修改
+## Python 环境使用和修改 （Mac)
 
 ### 基本配置
 
 理论上 Python 3.6+ 都可以用
 （我是在 Windows 10 x64 21H2 + Python 3.10.2 的环境下测试的）
+
+首先要安装python，然后下载安装包，解压。
+
+进入terminal
+```bash
+cd 解压的文件夹地址
+```
+然后执行下面的代码
 
 使用 virtualenv 构建运行所需虚拟环境
 
