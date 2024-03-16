@@ -42,7 +42,7 @@ A backup tool for renren.com
 ```bash
 cd 解压的文件夹地址
 ```
-然后执行下面的代码
+要确保先进入解压的文件夹，这样系统能找到需要的函数，然后再运行下面的代码
 
 使用 virtualenv 构建运行所需虚拟环境
 
